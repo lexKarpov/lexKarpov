@@ -8,7 +8,7 @@
 Сначала было очень тяжело, обучение занимало очень много времени и сил. Но, чат с моими идногрупниками и наставниками поддерживал боевой дух)
 Сейчас, на завершающей стадии обучения, ищу работу. На ближайщее будущее - изучить глубже React.js и начать изучать TypeScript.
 
-##Мой стек:
+## Мой стек:
 ![HTML](https://img.shields.io/badge/-HTML-292a30?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-292a30?style=for-the-badge&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/-Javascript-292a30?style=for-the-badge&logo=Javascript)
@@ -17,3 +17,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-292a30?style=for-the-badge&logo=Webpack)
 ![BEM](https://img.shields.io/badge/-BEM-292a30?style=for-the-badge&logo=BEM)
 ![git](https://img.shields.io/badge/-git-292a30?style=for-the-badge&logo=git)
+
+## Соцсети:
+![telegram](https://img.shields.io/badge/-telegram-292a30?style=for-the-badge&logo=telegram)
+![vk](https://img.shields.io/badge/-vk-292a30?style=for-the-badge&logo=vk)
+![whatsApp](https://img.shields.io/badge/-whatsApp-292a30?style=for-the-badge&logo=whatsApp)
