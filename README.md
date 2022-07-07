@@ -21,4 +21,4 @@
 ## Соцсети:
 [![telegram](https://img.shields.io/badge/-telegram-292a30?style=for-the-badge&logo=telegram)](https://t.me/llyoly)
 [![vk](https://img.shields.io/badge/-vk-292a30?style=for-the-badge&logo=vk)](https://vk.com/doyouknowlechkarpov)
-[![whatsApp](https://img.shields.io/badge/-whatsApp-292a30?style=for-the-badge&logo=whatsApp)](api.whatsapp.com/send?phone=79998023479)
+[![whatsApp](https://img.shields.io/badge/-whatsApp-292a30?style=for-the-badge&logo=whatsApp)](https://wa.me/79998023479)
